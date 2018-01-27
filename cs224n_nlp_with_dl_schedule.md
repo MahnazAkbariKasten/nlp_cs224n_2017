@@ -16,7 +16,7 @@ This study group will use [Stanford-cs224n](http://web.stanford.edu/class/cs224n
 * Tasks
 
 |Task| Volunteer|Slack-ID|
-|:---|:---|
+|:---|:---|:---|
 |Lead, plan, organize|Mahnaz|@mahnaz
 |Venue coordinator|||
 |Document, materials, Git|||
